@@ -1,10 +1,28 @@
 <div align="center">
+  <img src="assets/hero.jpg" alt="Tapik — говорите свободно" width="720">
 
-# Tapik
+  <br>
 
-Мессенджер с realtime-доставкой, ИИ-автоответчиком и push-уведомлениями — построен как микросервисная платформа на NestJS.
+  ![NestJS](https://img.shields.io/badge/NestJS-11-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+  ![ScyllaDB](https://img.shields.io/badge/ScyllaDB-6DDF6D?style=flat-square&logo=scylladb&logoColor=black)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+  8 микросервисов · Мессенджер с realtime-доставкой, ИИ-автоответчиком и push-уведомлениями
 </div>
+
+## Интерфейс
+
+<table>
+<tr>
+<td width="60%"><img src="assets/screen-desktop.png" alt="Десктоп: список чатов и переписка"></td>
+<td width="20%"><img src="assets/screen-chatlist.png" alt="Список чатов с ИИ-дайджестом непрочитанных"></td>
+<td width="20%"><img src="assets/screen-groupchat.png" alt="Групповой чат"></td>
+</tr>
+</table>
 
 ## Архитектура
 
